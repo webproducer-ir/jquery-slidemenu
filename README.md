@@ -7,7 +7,7 @@ First go to website http://fortawesome.github.io/Font-Awesome/ and download the 
 
 Next, include Font Awesome to your project.
 
-Include the jquery plugin to your project.
+And, include the jquery plugin to your project.
 Jquery Quick Access : (code.jquery.com/jquery-1.10.2.min.js)
 
 1- Include jquery-slide-menu.css in head
