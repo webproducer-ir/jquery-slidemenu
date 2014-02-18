@@ -3,15 +3,17 @@ Jquery Slide Menu
 
 HOW TO USE
 
-1- Include font-awesome.min.css in head
+First go to website http://fortawesome.github.io/Font-Awesome/ and download the last version of the Font Awesome
 
-2- Include jquery-slide-menu.css in head
+After download include to your project.
 
-3- Include jquery-x.xx.x.min.js in end of body
+Include the jquery plugin to your project.
 
-4- Include jquery-slide-menu.js in after jquery plugin
+1- Include jquery-slide-menu.css in head
 
-5 - Next create new javascript code and include :
+2- Include jquery-slide-menu.js in after jquery plugin
+
+3 - Use :
 
     <script type="text/javascript">
     	$(document).ready(function(e) {
