@@ -5,9 +5,10 @@ HOW TO USE
 
 First go to website http://fortawesome.github.io/Font-Awesome/ and download the last version of the Font Awesome
 
-After download include to your project.
+Next, include Font Awesome to your project.
 
 Include the jquery plugin to your project.
+Jquery Quick Access : (code.jquery.com/jquery-1.10.2.min.js)
 
 1- Include jquery-slide-menu.css in head
 
